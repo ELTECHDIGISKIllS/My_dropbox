@@ -37,8 +37,8 @@ To use the app:
 - **Preview files** by clicking on any uploaded image.
 - **Share files** by copying a secure link.
 
-Follow the link below to access the app live:
-
+Follow the link below to access the hosted version of the app:
+https://my-dropbox-ten.vercel.app/
 
 ### The Core Team
 <span><i>Made at <a href='https://qwasar.io'>Qwasar SV -- Software Engineering School</a></i></span>
